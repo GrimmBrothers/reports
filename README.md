@@ -1,6 +1,10 @@
 # Reports
 PDF reports.
 Some of the reports are a work in progress.
+ - Price of MEV.
+ - Zero-sum searcher strategies.
+ - Full report. (work in progress)
+
 
 ToDo:
 
