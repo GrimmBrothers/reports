@@ -1,5 +1,5 @@
-# reports
-PDF reports
+# Reports
+PDF reports.
 Some of the reports are a work in progress.
 
 ToDo:
